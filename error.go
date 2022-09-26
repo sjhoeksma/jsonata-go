@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"regexp"
 
-	"github.com/xiatechs/jsonata-go/jtypes"
+	"github.com/sjhoeksma/jsonata-go/jtypes"
 )
 
 // ErrUndefined is returned by the evaluation methods when

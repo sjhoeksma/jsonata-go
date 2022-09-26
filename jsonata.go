@@ -13,9 +13,9 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/xiatechs/jsonata-go/jlib"
-	"github.com/xiatechs/jsonata-go/jparse"
-	"github.com/xiatechs/jsonata-go/jtypes"
+	"github.com/sjhoeksma/jsonata-go/jlib"
+	"github.com/sjhoeksma/jsonata-go/jparse"
+	"github.com/sjhoeksma/jsonata-go/jtypes"
 )
 
 var (

@@ -14,8 +14,8 @@ import (
 	_ "net/http/pprof"
 	"strings"
 
-	jsonata "github.com/xiatechs/jsonata-go"
-	"github.com/xiatechs/jsonata-go/jtypes"
+	jsonata "github.com/sjhoeksma/jsonata-go"
+	"github.com/sjhoeksma/jsonata-go/jtypes"
 )
 
 func init() {

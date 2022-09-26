@@ -1,4 +1,4 @@
-module github.com/xiatechs/jsonata-go
+module github.com/sjhoeksma/jsonata-go
 
 go 1.18
 

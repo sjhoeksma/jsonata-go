@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"log"
 
-	jsonata "github.com/xiatechs/jsonata-go"
+	jsonata "github.com/sjhoeksma/jsonata-go"
 )
 
 const jsonString = `

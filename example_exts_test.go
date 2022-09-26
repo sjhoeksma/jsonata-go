@@ -9,7 +9,7 @@ import (
 	"log"
 	"strings"
 
-	jsonata "github.com/xiatechs/jsonata-go"
+	jsonata "github.com/sjhoeksma/jsonata-go"
 )
 
 //
